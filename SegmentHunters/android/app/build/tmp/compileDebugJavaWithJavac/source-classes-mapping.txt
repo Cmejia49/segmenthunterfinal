@@ -1,0 +1,15 @@
+com/segmenthunters/MainApplication.java
+ com.segmenthunters.MainApplication
+ com.segmenthunters.MainApplication$1
+com/segmenthunters/MainActivity.java
+ com.segmenthunters.MainActivity
+ com.segmenthunters.MainActivity$1
+com/segmenthunters/ReactNativeFlipper.java
+ com.segmenthunters.ReactNativeFlipper
+ com.segmenthunters.ReactNativeFlipper$1
+ com.segmenthunters.ReactNativeFlipper$2
+ com.segmenthunters.ReactNativeFlipper$2$1
+com/segmenthunters/BuildConfig.java
+ com.segmenthunters.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

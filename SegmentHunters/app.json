@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SegmentHunters",
+    "slug": "SegmentHunters",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SegmentHunters"
+}

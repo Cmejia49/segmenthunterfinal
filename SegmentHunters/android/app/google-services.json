@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652993483991",
+    "project_id": "segmenthunter-26643",
+    "storage_bucket": "segmenthunter-26643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652993483991:android:50492e79a33a7fd8c10c92",
+        "android_client_info": {
+          "package_name": "com.company.segmenthunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652993483991-0db9u6n3h4qak2gm809f31noltqgt76j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6gCcj7ISri5hIRFmO9yLNISXkb6TVZCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652993483991-0db9u6n3h4qak2gm809f31noltqgt76j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
