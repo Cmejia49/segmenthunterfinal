@@ -1,5 +1,5 @@
 # segmenthunterfinal
- FinalProject
+ A App help to notify user to target segment when will it start and end using Strava api
 
 ## Screenshots
 
